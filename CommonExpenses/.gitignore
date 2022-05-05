@@ -4,3 +4,7 @@
 	../.idea/vcs.xml
 	..gitignore.swp
 ../cmake-build-debug/
+.idea/
+.idea
+cmake-build-debug
+/cmake-build-debug
