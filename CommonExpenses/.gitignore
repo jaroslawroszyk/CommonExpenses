@@ -1,10 +1,9 @@
 ../.idea/.gitignore
-	../.idea/misc.xml
-	../.idea/modules.xml
-	../.idea/vcs.xml
-	..gitignore.swp
+../.idea/misc.xml
+../.idea/modules.xml
+../.idea/vcs.xml
+..gitignore.swp
 ../cmake-build-debug/
 .idea/
-.idea
 cmake-build-debug
 /cmake-build-debug

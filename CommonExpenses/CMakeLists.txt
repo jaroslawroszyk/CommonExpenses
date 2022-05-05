@@ -9,4 +9,4 @@ include_directories(${GTEST_INCLUDE_DIRS})
 include_directories(src)
 
 add_subdirectory(src)
-add_subdirectory(tst)
+add_subdirectory(uts)
