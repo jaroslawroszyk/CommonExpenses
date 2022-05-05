@@ -1,0 +1,12 @@
+# ninja log v5
+0	13	1651779571770835628	src/CMakeFiles/CommonExpenses_run.dir/CommonExpenses.cpp.o	fae8fcfcb066e85a
+0	326	1651779572082835468	src/CMakeFiles/CommonExpenses_run.dir/main.cpp.o	d517d163b811c066
+326	385	1651779572138835439	src/CommonExpenses_run	8b8c094879ae7c36
+1	22	1651779579990831763	src/CMakeFiles/CommonExpenses_lib.dir/CommonExpenses.cpp.o	4dd17afb1d3afe78
+0	338	1651779580314831627	src/CMakeFiles/CommonExpenses_lib.dir/main.cpp.o	6d3d32d6f1a9cfe9
+338	343	1651779580318831625	src/libCommonExpenses_lib.a	7469638d4160003b
+1	1048	1651779581022831329	tst/CMakeFiles/CommonExpenses_tst.dir/main.cpp.o	1b1e5464d8ba0a2e
+1	1135	1651779581110831293	tst/CMakeFiles/CommonExpenses_tst.dir/CommonExpenses-test.cpp.o	492b22c4d1effb6c
+1135	1214	1651779581190831260	tst/CommonExpenses_tst	1c41fb8d4a2ce3e5
+0	1118	1651779609358823748	tst/CMakeFiles/CommonExpenses_tst.dir/CommonExpenses-test.cpp.o	492b22c4d1effb6c
+1118	1195	1651779609434823740	tst/CommonExpenses_tst	1c41fb8d4a2ce3e5

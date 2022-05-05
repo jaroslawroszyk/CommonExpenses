@@ -1,0 +1,110 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "tst",
+					"jsonFile" : "directory-tst-Debug-2ee6eb19ba6271739849.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tst",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CommonExpenses",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CommonExpenses_lib::@145eef247bfb46b6828c",
+					"jsonFile" : "target-CommonExpenses_lib-Debug-e39c2828ace3e099a4a9.json",
+					"name" : "CommonExpenses_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CommonExpenses_run::@145eef247bfb46b6828c",
+					"jsonFile" : "target-CommonExpenses_run-Debug-8df33f22a2c2231048f4.json",
+					"name" : "CommonExpenses_run",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "CommonExpenses_tst::@bc08d5df49ffa9ee5cce",
+					"jsonFile" : "target-CommonExpenses_tst-Debug-97d1167d8e54d0213db5.json",
+					"name" : "CommonExpenses_tst",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug",
+		"source" : "/home/jarek/cpp/CommonExpenses/CommonExpenses"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

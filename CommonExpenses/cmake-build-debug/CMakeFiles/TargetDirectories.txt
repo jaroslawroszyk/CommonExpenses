@@ -1,0 +1,9 @@
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/src/CMakeFiles/CommonExpenses_run.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/src/CMakeFiles/CommonExpenses_lib.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/tst/CMakeFiles/CommonExpenses_tst.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/tst/CMakeFiles/edit_cache.dir
+/home/jarek/cpp/CommonExpenses/CommonExpenses/cmake-build-debug/tst/CMakeFiles/rebuild_cache.dir
